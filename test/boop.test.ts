@@ -1,4 +1,4 @@
-import { bootstrap } from "@gsilber/webez";
+import { bootstrap } from "@boots-edu/webz";
 import { MainComponent } from "../src/app/main.component";
 import { BoopButtonComponent } from "../src/app/boop-button/boop-button.component";
 

@@ -1,4 +1,4 @@
-import { bootstrap } from "@gsilber/webez";
+import { bootstrap } from "@boots-edu/webz";
 import { MainComponent } from "../src/app/main.component";
 
 describe("Main Component", () => {

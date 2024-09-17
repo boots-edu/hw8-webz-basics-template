@@ -1,5 +1,5 @@
 {
-    "name": "hw8-webez-basics",
+    "name": "hw8-webz-basics",
     "version": "0.0.1",
     "description": "",
     "main": "index.js",
@@ -21,7 +21,7 @@
     "author": "",
     "license": "ISC",
     "devDependencies": {
-        "@gsilber/webez": "^0.4.11",
+        "@boots-edu/webz": "^0.9.12",
         "@types/node": "^20.11.25",
         "copy-webpack-plugin": "^12.0.2",
         "clean-webpack-plugin": "^4.0.0",

@@ -1,14 +1,13 @@
 import html from "./main.component.html";
 import css from "./main.component.css";
-import { EzComponent } from '@gsilber/webez';
+import { WebzComponent } from "@boots-edu/webz";
 
 /**
  * @description MainComponent is the main component of the app
- * @extends EzComponent
- * 
+ * @extends WebzComponent
+ *
  */
-export class MainComponent extends EzComponent {
-
+export class MainComponent extends WebzComponent {
     constructor() {
         super(html, css);
     }
